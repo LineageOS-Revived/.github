@@ -5,4 +5,5 @@ Also includes misc fixes and perfomance improvements from [crDroid](https://gith
 
 Currently the following branches are supported and tested:
 - lineage-18.1
+- lineage-17.1
 - cm-14.1
